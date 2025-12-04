@@ -1,2 +1,3 @@
-# netpulse
-A python-based commandline tool to receive information about machines on your network
+<h1 align="center">NetPulse</h1>
+<p align="center">A fast and minimal terminal tool to check online machines across your network.</p>
+
